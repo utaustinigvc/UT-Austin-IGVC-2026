@@ -1,0 +1,21 @@
+# colcon / build artifacts
+build/
+install/
+log/
+.colcon*/
+
+# Python cruft
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# Editor stuff (optional but nice)
+.vscode/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
